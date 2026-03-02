@@ -6,7 +6,7 @@
  * Author: Brandon Logan
  * Requires at least: 5.0
  * Requires PHP: 7.4
- * License: GPL-2.0-or-later
+ * License: License to Kill
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
